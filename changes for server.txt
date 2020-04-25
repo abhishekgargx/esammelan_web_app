@@ -1,0 +1,50 @@
+favicon.ico
+
+images/
+
+title.html
+
+interface_config.js
+
+
+ubuntu/jitsi-meet/ 
+
+
+need 
+   // Documentation reference for the live streaming feature.
+    LIVE_STREAMING_HELP_LINK: 'https://jitsi.org/live',
+
+
+edit
+ /usr/share/jitsi-meet/libs/app.bundle.min.js    
+
+
+
+
+ /Users/abhishek/server/ubuntu/jitsi-videobridge/jitsi-meet/images/
+
+ /Users/abhishek/server/ubuntu/jitsi-videobridge/jitsi-meet/favicon.ico
+
+
+ /Users/abhishek/server/ubuntu/jitsi-videobridge/jitsi-meet/title.html
+
+
+/Users/abhishek/server/ubuntu/jitsi-videobridge/jitsi-meet/interface_config.js
+
+/Users/abhishek/server/ubuntu/jitsi-videobridge/jitsi-meet/libs/
+
+
+ /Users/abhishek/server/ubuntu/jitsi-meet/images/
+
+
+ /Users/abhishek/server/ubuntu/jitsi-meet/favicon.ico
+
+
+ /Users/abhishek/server/ubuntu/jitsi-meet/title.html
+
+ /Users/abhishek/server/ubuntu/jitsi-meet/tnterface_config.js
+
+
+  /Users/abhishek/server/ubuntu/jitsi-meet/libs/
+
+

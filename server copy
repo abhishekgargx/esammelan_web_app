@@ -1,0 +1,11 @@
+sudo scp -r -i "/Users/abhishek/abhiAmazonE2C.pem"  ubuntu@ec2-3-7-77-175.ap-south-1.compute.amazonaws.com:/etc/jitsi/ .
+
+
+
+sudo scp -r -i "/Users/abhishek/abhiAmazonE2C.pem"  ubuntu@ec2-3-7-77-175.ap-south-1.compute.amazonaws.com:/home/ubuntu/jitsi/ .
+
+
+
+
+
+sudo scp -r -i "/Users/abhishek/abhiAmazonE2C.pem" *

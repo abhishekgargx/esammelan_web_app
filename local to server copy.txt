@@ -1,0 +1,39 @@
+sudo scp -r -i "/Users/abhishek/abhiAmazonE2C.pem" /Users/abhishek/server/ubuntu/jitsi-videobridge/jitsi-meet/images ubuntu@ec2-3-7-83-39.ap-south-1.compute.amazonaws.com:/usr/share/jitsi-videobridge/jitsi-meet/
+ 
+sudo scp -r -i "/Users/abhishek/abhiAmazonE2C.pem" /Users/abhishek/server/ubuntu/jitsi-videobridge/jitsi-meet/favicon.ico ubuntu@ec2-3-7-83-39.ap-south-1.compute.amazonaws.com:/usr/share/jitsi-videobridge/jitsi-meet/
+ 
+   ############
+sudo scp -r -i "/Users/abhishek/abhiAmazonE2C.pem" /Users/abhishek/server/ubuntu/jitsi-videobridge/jitsi-meet/title.html ubuntu@ec2-3-7-83-39.ap-south-1.compute.amazonaws.com:/usr/share/jitsi-videobridge/jitsi-meet/
+ 
+
+sudo scp -r -i  "/Users/abhishek/abhiAmazonE2C.pem" /Users/abhishek/server/ubuntu/jitsi-videobridge/jitsi-meet/interface_config.js ubuntu@ec2-3-7-83-39.ap-south-1.compute.amazonaws.com:/usr/share/jitsi-videobridge/jitsi-meet/
+ 
+
+
+sudo scp -r -i "/Users/abhishek/abhiAmazonE2C.pem"  /Users/abhishek/server/ubuntu/jitsi-videobridge/jitsi-meet/libs ubuntu@ec2-3-7-83-39.ap-south-1.compute.amazonaws.com:/usr/share/jitsi-videobridge/jitsi-meet/
+###########
+ 
+
+
+
+sudo scp -r -i "/Users/abhishek/abhiAmazonE2C.pem" /Users/abhishek/server/ubuntu/jitsi-meet/images ubuntu@ec2-3-7-83-39.ap-south-1.compute.amazonaws.com:/usr/share/jitsi-meet/
+ 
+sudo scp -r -i "/Users/abhishek/abhiAmazonE2C.pem" /Users/abhishek/server/ubuntu/jitsi-meet/favicon.ico ubuntu@ec2-3-7-83-39.ap-south-1.compute.amazonaws.com:/usr/share/jitsi-meet/
+ 
+ ##########
+sudo scp -r -i "/Users/abhishek/abhiAmazonE2C.pem" /Users/abhishek/server/ubuntu/jitsi-meet/title.html ubuntu@ec2-3-7-83-39.ap-south-1.compute.amazonaws.com:/usr/share/jitsi-meet/
+ 
+sudo scp -r -i "/Users/abhishek/abhiAmazonE2C.pem"  /Users/abhishek/server/ubuntu/jitsi-meet/interface_config.js ubuntu@ec2-3-7-83-39.ap-south-1.compute.amazonaws.com:/usr/share/jitsi-meet/
+ 
+
+sudo scp -r -i "/Users/abhishek/abhiAmazonE2C.pem" /Users/abhishek/server/ubuntu/jitsi-meet/libs/app.bundle.min.js ubuntu@ec2-3-7-83-39.ap-south-1.compute.amazonaws.com:/usr/share/jitsi-meet/libs/
+############
+
+
+
+
+
+
+
+
+sudo scp -r -i "/Users/abhishek/abhiAmazonE2C.pem" /Users/abhishek/server/ubuntu/jitsi-videobridge/jitsi-meet/images ubuntu@ec2-3-7-83-39.ap-south-1.compute.amazonaws.com:/usr/share/jitsi-videobridge/jitsi-meet/

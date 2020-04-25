@@ -1,0 +1,32 @@
+adb reverse tcp:8081 tcp:8081
+
+
+
+chmod 600 abhiAmazonE2C.pem 
+
+ssh -i "abhiAmazonE2C.pem" ubuntu@ec2-13-235-72-199.ap-south-1.compute.amazonaws.com
+
+echo "new line of text" | sudo tee -a /etc/apt/sources.listcd
+
+Country Name (2 letter code) [AU]:IN
+State or Province Name (full name) [Some-State]:Haryana
+Locality Name (eg, city) []: Faridabad
+Organization Name (eg, company) [Internet Widgits Pty Ltd]:eSammelan Pvt Ltd
+Organizational Unit Name (eg, section) []: eSammelan Pvt Ltd
+Common Name (e.g. server FQDN or YOUR name) []:meet.esammelan.com
+Email Address []:abhishek@esammelan.com
+
+bundle 
+
+// signed apk
+
+./gradlew assembleRelease
+
+// signed bundle
+
+./gradlew bundleRelease
+
+
+react-native bundle --platform android --dev false --entry-file index.android.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res/
+
+
